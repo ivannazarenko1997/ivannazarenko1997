@@ -1,0 +1,23 @@
+{
+"hello_game_message" : "Hello in game Rock Scissors Paper",
+"incorrect_game_step_message" : "You have made incorrect step. Please make your choise again",
+ "game_type_chouse_message" : "Please chouse type of game. A - authomatic, M - manual. Press T - for ternimate game.",
+ "game_type_chouse_result" : "You have chousen %s game type",
+ "game_play_question_message" : "Do you want to play next game round or exit? Y -yes , N -exit",
+ "game_login_account_message" : "Do you have user account ? Y- login ,N -register. ",
+ "game_exit_message" : "You have left a game. Buy.",
+ "login_user_input" : "Please input your login ",
+ "password_user_input" : "Please input your password ",
+  "login_or_password_empty" : "Login should contains more then 5 symbols.",
+  "user_not_found_message" : "User with current login not found",
+  "user_password_incorrect" : "You have enter incorrect password",
+   "user_row_count_input" : "Input number of rounds",
+   "user_step_make" : "Make your step. Press P -paper, R-rock ,and S- scissors. Press T - for ternimate game.",
+  "user_password_credentionals" : "Password should contains figures and letters. Password length should be more 7 symbols.",
+  "error_message_input": "Error user input:",
+  "user_allready_exists_message"  : "User with current login allready exists",
+  "user_login_action" : " Enter your login name and password for login",
+  "user_register_action" : " Enter your login name and password for registration",
+  "enter_value_again_message" : "Enter value again . Y- yes, N-no."
+
+}

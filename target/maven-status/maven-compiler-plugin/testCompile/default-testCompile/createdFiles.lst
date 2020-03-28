@@ -1,0 +1,8 @@
+com\wowapp\game\RockScissorsPapep\LoginServiceTest.class
+com\wowapp\game\RockScissorsPapep\ScreenInterfaceTest.class
+com\wowapp\game\RockScissorsPapep\GameDataSourceRepositoryTest.class
+com\wowapp\game\RockScissorsPapep\GameControllerTest.class
+com\wowapp\game\RockScissorsPapep\RegistrationServiceTest.class
+com\wowapp\game\RockScissorsPapep\ScreenInterfaceTest$1.class
+com\wowapp\game\RockScissorsPapep\MainGameServiceTest.class
+com\wowapp\game\RockScissorsPapep\UserServiceTest.class

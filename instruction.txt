@@ -1,0 +1,48 @@
+*******************Instruction***************************
+for Game RockScissorsPaper game
+
+ 1.Description
+ RockScissorsPaper is game of famous Rock Scissors Paper game with build as java console application,
+ using such tools and technologies:Java 8, Maven 3.3 Spring Boot.
+ Game contains such interfaces as:
+ -IGameDataSourceRepository - interface contains
+ functionality for retrieve metadata and user info from  local Data Source
+ -IUserService : interface contains methods of functionality for find, save and update current user.
+ -ILoginService : interface contains methods of functionality for User login into game.
+ -IRegistrationService  : interface contains methods of functionality for Registration user into game. 
+ -IMainGameService: interface contains methods of functionality for Main Game Service 
+     as play next game, next round and game exit  from game. 
+ -IScreenInterface : interface contains methods of functionality for display messages to screen and user steps input.
+  -IGameDataSourceRepository: interface contains methods of functionality 
+  for get, save and load data from local Data Source
+ -IGameController: interface contains methods of functionality for start game and determine game logic.
+ entry point into application: SpringBootConsoleApplication.java
+ You can find a UML diagram for display such iinterfaces.
+ Implemented posiibility for multithreading applications and thread safe functionality.
+ You can find logs file of application  named applicationLogs.log.
+ You can find configuration file of application  - application.properties.
+ 
+ You can login in application using credentionals: (testuser1/password1)
+
+2.Start game using Windows Command Line .
+Requirements:
+Java >=1.8
+Maven >=3.3
+   a) open folder game_Nazarenko in your folder location ( for example c:/install/app) and find "RockScissorsPaper-spring-boot.jar" file
+   If file doesn't exist go to step 2 and build such jar file.
+   b) open Windows Command Line and go to you folder location ( for example cd c:/install/app)
+   c) enter command: java -jar RockScissorsPaper-spring-boot.jar
+   
+3.Run and deploy game using IntelliJ Idea.
+Requirements:
+Java >=1.8
+Maven >=3.3
+IntelliJ Idea >17.1
+   a) unzip archive game_Nazarenko  in your folder location ( for example c:/install/app) and find folder "RockScissorsPaper"
+   b) open IntelliJ Idea and import project by open items in main menu (File->New->Project from Existing Sources)
+   c) run maven commands (mvn clean install) in IntelliJ Idea or open Windows Command Line your project location
+   and rum maven from  Windows Command (for example  1)cd c:/install/app 2)mvn clean install
+   d) find file SpringBootConsoleApplication.java and run this file dy click in popup menu item "Run  SpringBootConsoleApplication"
+   
+  
+   

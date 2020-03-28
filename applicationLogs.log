@@ -1,0 +1,343 @@
+Starting SpringBootConsoleApplication on CTRLSOFT-895K90 with PID 14724 (C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper\target\classes started by pek in C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sat Feb 23 15:09:24 EET 2019]; root of context hierarchy
+<< initializeDataSourceInfo
+<< loadDatasourceInfo
+<< getFileContent
+<< getFileContent
+<< loadMetaDataInfo
+<< getFileContent
+<<Initialize screen interface
+<<getAsyncExecutor 
+Initializing ExecutorService 
+<<ThreadPoolTaskExecutor set
+Initializing ExecutorService  'processExecutor'
+Registering beans for JMX exposure on startup
+<<startGame
+<<setGameUserInfo
+<< loginOrRegisterUser
+<< displayUserDefaultQuestionForNextGameStep
+<< makeLoginUserOrRegisterUser
+Starting SpringBootConsoleApplication on CTRLSOFT-895K90 with PID 8244 (C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper\target\classes started by pek in C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sun Feb 24 13:15:56 EET 2019]; root of context hierarchy
+<< initializeDataSourceInfo
+<< loadDatasourceInfo
+<< getFileContent
+<< getFileContent
+<< loadMetaDataInfo
+<< getFileContent
+<<Initialize screen interface
+<<getAsyncExecutor 
+Initializing ExecutorService 
+<<ThreadPoolTaskExecutor set
+Initializing ExecutorService  'processExecutor'
+Registering beans for JMX exposure on startup
+<<startGame
+<<setGameUserInfo
+<< loginOrRegisterUser
+<< displayUserDefaultQuestionForNextGameStep
+<< makeLoginUserOrRegisterUser
+<< checkUserLoginPassword
+<< isCorrectPassword
+<< printUserLoggedInfo
+<< printUserResultGameOnExit
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<< saveGameInfo
+<< updateUser
+<< saveUser
+<< printUserLoggedInfo
+<< printUserResultGameOnExit
+<< saveDataOnGameClose
+Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sun Feb 24 13:15:56 EET 2019]; root of context hierarchy
+Unregistering JMX-exposed beans on shutdown
+Shutting down ExecutorService 'processExecutor'
+Starting SpringBootConsoleApplication on CTRLSOFT-895K90 with PID 16112 (C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper\target\classes started by pek in C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sun Feb 24 13:18:50 EET 2019]; root of context hierarchy
+<< initializeDataSourceInfo
+<< loadDatasourceInfo
+<< getFileContent
+<< getFileContent
+<< loadMetaDataInfo
+<< getFileContent
+<<Initialize screen interface
+<<getAsyncExecutor 
+Initializing ExecutorService 
+<<ThreadPoolTaskExecutor set
+Initializing ExecutorService  'processExecutor'
+Registering beans for JMX exposure on startup
+<<startGame
+<<setGameUserInfo
+<< loginOrRegisterUser
+<< displayUserDefaultQuestionForNextGameStep
+<< makeLoginUserOrRegisterUser
+<< checkUserLoginPassword
+<< isCorrectPassword
+<< printUserLoggedInfo
+<< printUserResultGameOnExit
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<< displayUserDefaultQuestionForNextGameStep
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+Starting SpringBootConsoleApplication on CTRLSOFT-895K90 with PID 10068 (C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper\target\classes started by pek in C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sun Feb 24 13:52:48 EET 2019]; root of context hierarchy
+<< initializeDataSourceInfo
+<< loadDatasourceInfo
+<< getFileContent
+<< getFileContent
+<< loadMetaDataInfo
+<< getFileContent
+<<Initialize screen interface
+<<getAsyncExecutor 
+Initializing ExecutorService 
+<<ThreadPoolTaskExecutor set
+Initializing ExecutorService  'processExecutor'
+Registering beans for JMX exposure on startup
+<<startGame
+<<setGameUserInfo
+<< loginOrRegisterUser
+<< displayUserDefaultQuestionForNextGameStep
+<< makeLoginUserOrRegisterUser
+<< checkUserLoginPassword
+<< isCorrectPassword
+<< printUserLoggedInfo
+<< printUserResultGameOnExit
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<< displayUserDefaultQuestionForNextGameStep
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<< displayUserDefaultQuestionForNextGameStep
+<< saveGameInfo
+<< updateUser
+<< saveUser
+<< printUserLoggedInfo
+<< printUserResultGameOnExit
+<< saveDataOnGameClose
+Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sun Feb 24 13:52:48 EET 2019]; root of context hierarchy
+Unregistering JMX-exposed beans on shutdown
+Shutting down ExecutorService 'processExecutor'
+Starting SpringBootConsoleApplication on CTRLSOFT-895K90 with PID 13836 (C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper\target\classes started by pek in C:\Users\pek\Desktop\adverse-media\game_Nazarenko\game_Nazarenko\RockScissorsPaper)
+No active profile set, falling back to default profiles: default
+Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sun Feb 24 13:59:32 EET 2019]; root of context hierarchy
+<< initializeDataSourceInfo
+<< loadDatasourceInfo
+<< getFileContent
+<< getFileContent
+<< loadMetaDataInfo
+<< getFileContent
+<<Initialize screen interface
+<<getAsyncExecutor 
+Initializing ExecutorService 
+<<ThreadPoolTaskExecutor set
+Initializing ExecutorService  'processExecutor'
+Registering beans for JMX exposure on startup
+<<startGame
+<<setGameUserInfo
+<< loginOrRegisterUser
+<< displayUserDefaultQuestionForNextGameStep
+<< makeLoginUserOrRegisterUser
+<< checkUserLoginPassword
+<< isCorrectPassword
+<< printUserLoggedInfo
+<< printUserResultGameOnExit
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<< displayUserDefaultQuestionForNextGameStep
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playAutomaticRound
+<< displayMessageToScreen
+<< startPlayAuthomaticRound
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<< displayUserDefaultQuestionForNextGameStep
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<< displayUserDefaultQuestionForNextGameStep
+<<nextGamePlayRound
+<< userDialogChooseTypeOfGame
+<<playGameRounds
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< getGameWinner
+<<changeGameResults
+<< displayMessageToScreen
+<<playManualRound
+<< displayMessageToScreen
+<< startPlayManualRound
+<< makeUserStepByPlayGame
+<< saveGameInfo
+<< updateUser
+<< saveUser
+<< printUserLoggedInfo
+<< printUserResultGameOnExit
+<< saveDataOnGameClose
+Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7dc222ae: startup date [Sun Feb 24 13:59:32 EET 2019]; root of context hierarchy
+Unregistering JMX-exposed beans on shutdown
+Shutting down ExecutorService 'processExecutor'
